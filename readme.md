@@ -2,9 +2,8 @@
 
 A simple and beautiful weather application built with Python and Streamlit that displays the current weather for any city and features dynamic backgrounds.
 
-**Live Demo:** [Link to your deployed app will go here!]
+**Live Demo:** https://app-weather-app-g5trklwcs3xgybvvtz7j3i.streamlit.app/
 
-![App Screenshot](link_to_your_screenshot.png)
 
 ## 🚀 Features
 - **Real-time Data:** Fetches current weather data from the OpenWeatherMap API.
